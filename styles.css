@@ -3,6 +3,14 @@ body {
     color: white;
 }
 
+#logo {
+    width: 12%; /* 15% of the parent container's width */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center the logo */
+}
+
+
 header {
     padding: 20px 0;
 }
