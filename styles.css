@@ -10,7 +10,11 @@ body {
     margin: 0 auto; /* Center the logo */
 }
 
-
+@media (max-width: 480px) {  /* For phones */
+    #logo {
+        width: 60%;  /* Even larger for small phone screens */
+    }
+}
 header {
     padding: 20px 0;
 }
