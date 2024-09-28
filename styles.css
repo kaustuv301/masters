@@ -12,7 +12,7 @@ body {
 
 @media (max-width: 480px) {  /* For phones */
     #logo {
-        width: 60%;  /* Even larger for small phone screens */
+        width: 45%;  /* Even larger for small phone screens */
     }
 }
 header {
